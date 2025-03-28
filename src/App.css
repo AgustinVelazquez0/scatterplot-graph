@@ -1,0 +1,12 @@
+.chart-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+svg {
+  border: 1px solid #ccc;
+}
+
+.dot {
+  stroke: black;
+}
